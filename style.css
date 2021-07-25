@@ -1,0 +1,40 @@
+#head{
+	color: lightgreen;
+	font-family: Cabin;
+	text-align: center;
+	background-color: black;
+	border-radius: 8px;
+	padding: 10px;
+
+}
+#logo{
+	border-radius: 50%;
+}
+#logo2 {
+	border-radius: 50%;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+p{
+	font-family: unset;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 20%;
+}
+#nav{
+	color: green;
+}
+#SH{
+	text-align: center;
+}
+
+.card-group{
+	margin-top: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.card{
+	margin-left: 10px;
+}
